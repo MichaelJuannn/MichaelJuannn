@@ -1,7 +1,7 @@
-# Allo, Call Me Juan
+# Allo
 
 <h2 align="center"> Interested in Computer and Technology <h2/>
-<h3 align="center"><a href="https://michaeljuannn.github.io/"> Also Check My Personal Website</a> <h3/>
+<h3 align="center"><a href="https://michaeljuannn.github.io/">THIS</a> <h3/>
 
 ---
 
